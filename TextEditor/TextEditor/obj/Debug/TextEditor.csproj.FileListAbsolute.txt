@@ -1,0 +1,11 @@
+D:\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+D:\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.SuggestedBindingRedirects.cache
+D:\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+D:\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
